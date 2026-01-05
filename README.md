@@ -16,10 +16,10 @@
 这里是苏他老师的作品年表（2019-2024），点击图片可查看高清大图：
 
 <div align="center">
-  <img src="./img/list1.jpg" width="23%" alt="2019年作品">
-  <img src="./img/list2.jpg" width="23%" alt="2020年作品">
-  <img src="./img/list3.jpg" width="23%" alt="2021-2022年作品">
-  <img src="./img/list4.jpg" width="23%" alt="2022-2024年作品">
+  <img src="./img/1.jpg" width="23%" alt="2019年作品">
+  <img src="./img/2.jpg" width="23%" alt="2020年作品">
+  <img src="./img/3.jpg" width="23%" alt="2021-2022年作品">
+  <img src="./img/4.jpg" width="23%" alt="2022-2024年作品">
 </div>
 
 ---
